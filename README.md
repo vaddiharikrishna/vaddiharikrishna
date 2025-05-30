@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harikrishna Vaddi</h1>
 <h3 align="center">Aspiring Full-Stack Developer specializing in Python/Django, HTML, CSS, JS & MySQL</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixeltechnologies.in%2Fanimated-video-production%2F&psig=AOvVaw1-jsMxcRRxpEPX_OzJMEFZ&ust=1748709974360000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODby_HSy40DFQAAAAAdAAAAABAE" width="450px" align="right" alt="">
 
 - 🔭 I’m currently working on **Postdoc Online application re-development using python/Django**
 
