@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harikrishna Vaddi</h1>
 <h3 align="center">Aspiring Full-Stack Developer specializing in Python/Django, HTML, CSS, JS & MySQL</h3>
 <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_items_boosted&w=740" width="450" align="right" alt="">
-- 🔭 I’m currently working on **Postdoc Online application re-development using python/Django Internship**
+
+- 🔭 I’m currently working on **Postdoc Online application re-development using python/Django**
 
 - 🌱 I’m currently learning **Backend and Frontend Development**
 
@@ -16,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-krishna-vaddi-226171247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-krishna-vaddi-226171247" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hacker_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hacker_60" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
