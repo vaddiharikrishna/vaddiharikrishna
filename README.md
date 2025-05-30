@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harikrishna Vaddi</h1>
 <h3 align="center">Aspiring Full-Stack Developer specializing in Python/Django, HTML, CSS, JS & MySQL</h3>
-<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_items_boosted&w=740" alt="">
+<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_items_boosted&w=740" width="450" align="right" alt="">
 - 🔭 I’m currently working on **Postdoc Online application re-development using python/Django Internship**
 
 - 🌱 I’m currently learning **Backend and Frontend Development**
